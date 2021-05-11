@@ -1,0 +1,4 @@
+# E-Bus
+‘E-Bus’ is an online bus ticket management system having four stakeholders. After registering into the system, a passenger can choose the route and desired bus according to his/her convenience and send a ride request. Passengers can purchase tickets and they can see which bus is nearest to him/her. They can purchase tickets by paying the fares through bkash. The driver can accept/cancel the request, sent by the passengers and manage the seat’s availability inside the bus. Bus owners can track their respective buses, manage drivers and fares. And the admin panel has the whole control of the system as they can add new bus companies and routes based on the demand of the owners, see the registered passengers, the daily bus schedule of a user, add bus stoppage of a bus, and currency request.
+#Video Description
+https://drive.google.com/file/d/1AmC1YAODqdt1TH_aGdPcSxMvzVrHKs6H/view?usp=sharing
